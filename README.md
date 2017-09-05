@@ -1,2 +1,2 @@
 # LearningGit
-The project used to learn how to use Git
+The project is used to learn how to use Git
